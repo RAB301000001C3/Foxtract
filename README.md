@@ -1,3 +1,12 @@
+# Foxtract.exe 
+
+![foxtract](https://user-images.githubusercontent.com/85085158/227180996-764b77d3-f620-4a82-aada-d0eadc7e1c1d.png)
+
+# Foxtract.py
+
+![foxtract2](https://user-images.githubusercontent.com/85085158/227181028-fc56eaf8-02c6-4d52-a659-69b42cc2e639.png)
+
+
 # Foxtract
 
 Foxtract is a Python-based tool that extracts the browsing history from Mozilla Firefox's places.sqlite database using SQLite. It displays the URL, visit count, and last visit date of the current user to the URL.
