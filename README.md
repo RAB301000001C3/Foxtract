@@ -29,7 +29,7 @@ Note: If you are running the Windows executable on Linux, you can use Wine to ru
 
 The tool will extract the Mozilla Firefox browser history from the supplied "places.sqlite" file and display the URL, visit count, and last visit date of the current user to the URL. You can use the optional "--format" parameter for human-readable output.
 
-# Compatability
+# Compatibility
 
 Foxtract is compatible with Windows. For Linux, use the raw Foxtract.py file that requires Python3 to run, or use Wine to run the Foxtract.exe file.
 
